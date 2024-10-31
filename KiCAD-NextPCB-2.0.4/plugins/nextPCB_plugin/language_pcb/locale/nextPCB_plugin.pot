@@ -1,0 +1,1876 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2024-10-22 15:44+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=cp936\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\app_base.py:32
+msgid "In progress"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\app_base.py:32
+msgid "Open Software"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\app_base.py:41
+msgid "Pillow is not installed.Please try to install it."
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\app_base.py:45
+msgid "Unsupported layer count!"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:113
+msgid "   NextPCB   "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:135
+msgid "Preparing for your order"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:136
+msgid "The browser will be launched automatically while ready"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:303
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:559
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_pcb\fabrication_data_generator_thread.py:68
+msgid "Sending order request"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:456
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:493
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:545
+msgid "No available url for querying price in current region"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:471
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\upload_file.py:133
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:417
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:458
+msgid "HTTP request timed out: {error}"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:473
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\upload_file.py:135
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:307
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:299
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:276
+msgid "HTTP error occurred: {error}"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:475
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\upload_file.py:137
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:309
+msgid "Failed to parse JSON response: {error}"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:477
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\upload_file.py:139
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:311
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:301
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:278
+msgid "An unexpected HTTP error occurred: {error}"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:486
+msgid "Incorrect form parameter. There's a system error."
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:508
+msgid "Return false"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:525
+msgid "No available url for placing order in current region"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:553
+msgid "Upload fabrication file"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:607
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\upload_file.py:144
+msgid ""
+"Failed to request the API:\r\n"
+"{reason}.\r\n"
+" \r\n"
+"Please try making the request again.\r\n"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\main_frame.py:608
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\upload_file.py:145
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:934
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:281
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:317
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:362
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:405
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:249
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:284
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:124
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:131
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:139
+msgid "Error"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\bom_price_model.py:11
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:88
+msgid "BOM"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\order_summary_model.py:14
+msgid "days"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\order_summary_model.py:14
+msgid "hours"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:7
+msgid "testfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:8
+msgid "plate"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:9
+msgid "clc"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:10
+msgid "gch"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:11
+msgid "bgafee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:12
+msgid "impendancefee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:13
+msgid "pin"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:14
+msgid "copperfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:15
+msgid "colorfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:16
+msgid "sprayfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:17
+msgid "extraurgentfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:18
+msgid "viasfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:19
+msgid "bankongfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:20
+msgid "utilizationfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:21
+msgid "discountfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:22
+msgid "boardfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:23
+msgid "difficultyfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:24
+msgid "coverfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:25
+msgid "blindfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:26
+msgid "pressingfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:27
+msgid "cjfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:28
+msgid "pthfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:29
+msgid "viainpadfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:30
+msgid "reportfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:31
+msgid "populerfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:32
+msgid "paperfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:33
+msgid "userstampfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:34
+msgid "acceptancefee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:35
+msgid "crossfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:36
+msgid "invoicefee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:37
+msgid "insurancefee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:38
+msgid "zkfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:39
+msgid "cutfee"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:40
+msgid "luocao"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\pcb_price_model.py:41
+msgid "luocheng"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\smt_price_model.py:9
+msgid "smt_goods_fee_no_tax"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\smt_price_model.py:10
+msgid "total"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\smt_price_model.py:11
+msgid "smt_goods_fee_tax"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\smt_price_model.py:42
+msgid "SMT"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:39
+msgid "Worldwide (English)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:40
+msgid "Worldwide (Japanese)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:93
+msgid "Designator"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:100
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:38
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:59
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:54
+msgid "Value"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:107
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:45
+msgid "Footprint"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:116
+msgid "Build Time"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:123
+msgid "Qty"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:130
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:151
+msgid "Price"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:144
+msgid "Item"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:194
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:44
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:54
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:83
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:93
+msgid "Green"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\summary_panel.py:381
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:52
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:22
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:19
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:25
+msgid "MPN"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:33
+msgid "Preference"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:35
+msgid "Website"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:66
+msgid "BOM View"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:74
+msgid "BOM Match"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:82
+msgid "Cost Detail"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:101
+msgid "Order Summary"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:110
+msgid "Tip"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:112
+msgid "Factors that affect the price : Layer,  Min Trace/Space Outer, Min Pilled Hole "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:117
+msgid "Board Type (Recommand) : Single Piece"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:124
+msgid "Flnsihed Copper Weight (Best Price) : 1zo"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:131
+msgid "Solder Mask Color (Best Price) : Green"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:153
+msgid "Update Price"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\gui_pcb\summary\ui_summary_panel.py:156
+msgid "Add to Cart"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:84
+msgid "BOM Tools"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:135
+msgid " Group by: "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:143
+msgid " No Group "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:143
+msgid " Value & Footprint "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:148
+msgid "No Group"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:163
+msgid "Auto Match "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:165
+msgid "Auto Match MPN number to parts"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:196
+msgid "   All   "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:212
+msgid "Unmanaged"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:421
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:463
+msgid "An error occurred during the request: {error}"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:426
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:468
+msgid "non-OK HTTP response status: {status_code}"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:430
+msgid "No return data"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:430
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:498
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:926
+msgid "Info"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:435
+msgid "No corresponding data was matched. You can try to manually match."
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:497
+msgid "The matching is complete. Check the matching result carefully. You can try to manually match the \"Unmatched\" part."
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:840
+msgid "Copy MPN"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:844
+msgid "Paste MPN"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:848
+msgid "Manual Match"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:852
+msgid "Remove Assigned MPN"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:925
+msgid "Export BOM file finished. file path : {temp_dir}"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\mainwindow.py:933
+msgid ""
+"Failed to download part detail from the BOM API:\r\n"
+"{reasons}\r\n"
+"Please try again later.\r\n"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:24
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:22
+msgid "index"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:31
+msgid "Reference"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:59
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:23
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:20
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:28
+msgid "Manufacturer"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:66
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:25
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:22
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:40
+msgid "Category"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:73
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:28
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:25
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:46
+msgid "SKU"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:81
+msgid "Quantity"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:95
+msgid "POS"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\foot_print_list.py:102
+msgid "Side"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_model.py:46
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:220
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:240
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_model.py:47
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:192
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:209
+msgid "Show more"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:24
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:21
+msgid "Package / Footprint"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:26
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:23
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:30
+msgid "Description"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:27
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:88
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:24
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:85
+msgid "Datasheet"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:53
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:48
+msgid "Property"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:169
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:144
+msgid "The width and height of new size must be greater than 0"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:197
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:170
+msgid "returned data does not have expected clicked part"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:246
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:259
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:215
+msgid "No corresponding sku data was matched"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:280
+msgid ""
+"Failed to download part detail: {reason}\r\n"
+"We looked for a part named:\r\n"
+"{ mpn }\r\n"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:305
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:297
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:274
+msgid "HTTP request timed out"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\assigned_part_view.py:316
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:404
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:283
+msgid ""
+"Failed to download part detail from the BOM API:\r\n"
+"{reasons}\r\n"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\ui_assigned_part_panel.py:29
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:23
+msgid "Part Details"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_assigned_part_panel\ui_assigned_part_panel.py:45
+msgid "Part Picture"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\match_part_view.py:17
+msgid "Export BOM file to the project folder"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\ui_match_part_panel.py:27
+msgid " Manual Match "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\ui_match_part_panel.py:30
+msgid " Remove Assigned MPN "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\ui_match_part_panel.py:31
+msgid "Remove Assigned MPN "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\nextpcb_tools_view\ui_match_part_panel\ui_match_part_panel.py:38
+msgid " Epxort... "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:38
+msgid "BOM Search Online"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:215
+msgid "No corresponding data was matched"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:226
+msgid "returned JSON data does not have expected 'part' attribute"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:239
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:243
+msgid "{total} Results"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:241
+msgid "{max_part_count} Results"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:361
+msgid "Failed to get clicked part from NextPCB"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:388
+msgid "Help"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\part_selector.py:411
+msgid "Select Part"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\part_details_view.py:248
+msgid ""
+"Failed to download part detail: {reason}\r\n"
+"We looked for a part named:\r\n"
+"{mpn} \r\n"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_details_panel\ui_part_details_panel.py:42
+msgid "Picture"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\part_list_view.py:34
+msgid "Package/Footprint"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:27
+msgid "0 Results"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:57
+msgid "Previous"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:62
+msgid "0/1000"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:72
+msgid "Next"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_part_list_panel\ui_part_list_panel.py:78
+msgid "Select part"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_search_panel\ui_search_panel.py:37
+msgid "MPN: "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_search_panel\ui_search_panel.py:45
+msgid "Manufacturer: "
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\part_selector_view\ui_search_panel\ui_search_panel.py:56
+msgid "Search"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:15
+msgid "NextPCB Tools Settings"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:46
+msgid "Do not tent vias"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:54
+msgid "Whether vias should be coverd by soldermask or not"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:77
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:235
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_pcb\fabrication_data_generator_thread.py:35
+msgid "Fill zones"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:85
+msgid "Whether zones should be filled on gerber generation"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:108
+msgid "Plot values"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:116
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:147
+msgid "Whether value should be plotted on gerber generation"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:139
+msgid "Plot references"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:172
+msgid "MPN number priority"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:181
+msgid "Whether nextPCB number from schematic should overrule those in the database"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:220
+msgid "Tented vias"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:226
+msgid "Untented vias"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:243
+msgid "Don't fill zones"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:254
+msgid "Plot values on silkscreen"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:262
+msgid "Don't plot values on silkscreen"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:271
+msgid "Plot references on silkscreen"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:277
+msgid "Don't plot references on silkscreen"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:287
+msgid "MPN numbers from schematic have priority"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_nextpcb_new\settings.py:295
+msgid "MPN numbers from database have priority"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_pcb\fabrication_data_generator_thread.py:32
+msgid "Create fabrication data folder"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_pcb\fabrication_data_generator_thread.py:36
+msgid "Generate gerber"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_pcb\fabrication_data_generator_thread.py:38
+msgid "Generate excellon"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\kicad_pcb\fabrication_data_generator_thread.py:42
+msgid "Zip gerber and excellon file"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\language_pcb\lang_const.py:47
+msgid "Chinese"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\language_pcb\lang_const.py:47
+msgid "English"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\language_pcb\lang_const.py:47
+msgid "Japanese"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:38
+msgid "Single Piece"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:39
+msgid "Panel by Customer"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:40
+msgid "Panel by NextPCB"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:51
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\special_process_view.py:14
+msgid "N/A"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:52
+msgid "Left & Right"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:53
+msgid "Top & Bottom"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:54
+msgid "All 4 sides"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:123
+msgid "Panel Type X value isn't valid. Please input valid value."
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:130
+msgid "Panel Type Y value isn't valid. Please input valid value."
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:138
+msgid "Break-away Rail value isn't valid. Please input valid value."
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:334
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:207
+msgid "Size (single)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:335
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:162
+msgid "Qty(single)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:336
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:191
+msgid "Pcs"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:338
+msgid "Size (set)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:339
+msgid "Qty(Set)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\base_info_view.py:340
+msgid "Set"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:38
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:29
+msgid "Base Info"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:49
+msgid "Material Type"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:56
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:70
+msgid "Non-conductive base material"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:77
+msgid "Layer Count"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:101
+msgid "Board TG"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:132
+msgid "Board Type"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:139
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:154
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:291
+msgid "The finished PCB are by single or by panel"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:219
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:315
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:191
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:129
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:235
+msgid "X:"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:246
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:287
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:435
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:74
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:204
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:225
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:142
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:163
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:215
+msgid "mm"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:260
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:356
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:212
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:150
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:259
+msgid "Y:"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:303
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:226
+msgid "Panel Type"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:342
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:383
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:109
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:251
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:272
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:303
+msgid "pcs"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\base_pcb\ui_base_info.py:401
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:200
+msgid "Break-away Rail"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:14
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:26
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:15
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:25
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:30
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:35
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:40
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:45
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:50
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:55
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:66
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\process_info_view.py:28
+msgid "Need"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:15
+msgid "Need & Auto Confirm"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:16
+msgid "Need & Manual Confirm"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:20
+msgid "Accept"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:21
+msgid "Reject"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:27
+msgid "No need"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:31
+msgid "Add customer stamp"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:32
+msgid "Add it to specified location"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:33
+msgid "Don't add customer stamp"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:37
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\process_info_view.py:16
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\utils_nextpcb\constraint.py:6
+msgid "Yes"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:38
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:51
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\process_info_view.py:15
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\utils_nextpcb\constraint.py:6
+msgid "No"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:43
+msgid "Sample Test Free"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:44
+msgid "AOI+Flying Test"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:45
+msgid "AOI+Fixture"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:49
+msgid "Electronic"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:49
+msgid "Paper"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:51
+msgid "UL+Week/Year"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\personalized_info_view.py:51
+msgid "UL+Year/Week"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:24
+msgid "Personalized Service"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:31
+msgid "Electrical Test"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:41
+msgid "Approve Working Gerber"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:51
+msgid "Delivery Report"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:61
+msgid "Microsection Analysis Report"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:71
+msgid "Report Format"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:81
+msgid "UL Mark"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:91
+msgid "Film"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:101
+msgid "Cross Board"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:111
+msgid "Bulkhead Paper"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:121
+msgid "User Stamp Process"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:131
+msgid "HQ Pack"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\personalized_pcb\ui_personalized.py:144
+msgid "Special Request"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:45
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:55
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:84
+msgid "Red"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:46
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:56
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:85
+msgid "Yellow"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:47
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:57
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:86
+msgid "Blue"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:48
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:58
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:83
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:84
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:85
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:86
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:87
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:88
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:89
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:93
+msgid "White"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:49
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:59
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:88
+msgid "Matte Black"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:50
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:60
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:87
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:89
+msgid "Black"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:65
+msgid "Tenting Vias"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:66
+msgid "Vias not covered"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:67
+msgid "Solder Mask Plug (IV-B)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:68
+msgid "Non-Conductive Fill"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:72
+msgid "HASL"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:73
+msgid "Lead free HASL"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:74
+msgid "ENIG"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\process_info_view.py:75
+msgid "OSP"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:34
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\ui_process_info.py:23
+msgid "Process info"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:45
+msgid "PCB Thickness"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:88
+msgid "FInsihed Copper weight"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:112
+msgid "Inner Copper Weight"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:136
+msgid "Min Trace/Space Outer"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:160
+msgid "Min Drilled Hole"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:184
+msgid "Solder Mask Color"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:208
+msgid "Silkscreen"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:232
+msgid "Via Process"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:256
+msgid "Surface Finish"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\process_pcb\ui_process_info.py:280
+msgid "Immersion Gold Thickness"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\special_process_view.py:14
+msgid "Rank 1"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\special_process_view.py:14
+msgid "Rank 2"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\special_process_view.py:14
+msgid "Rank 3"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\special_process_view.py:16
+msgid "Customer Specified Stack up"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\special_process_view.py:16
+msgid "No Requirement"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\ui_special_process.py:34
+msgid "Special Process"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\ui_special_process.py:45
+msgid "Impedance"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\ui_special_process.py:69
+msgid "Beveling of G/F"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\ui_special_process.py:93
+msgid "Plated Half Holes"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\ui_special_process.py:117
+msgid "Pad Hole"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\ui_special_process.py:141
+msgid "HDI(Buried/blind vais)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\ui_special_process.py:165
+msgid "HDI Structure"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\ui_special_process.py:189
+msgid "Stack up"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\pcb_fabrication_pcb\special_process_pcb\ui_special_process.py:213
+msgid "Metallized Sides Count"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:14
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:24
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:29
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:34
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:39
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:44
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:49
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:54
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:59
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:65
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\process_info_view.py:27
+msgid "No Need"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:19
+msgid "General Cleaning"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:20
+msgid "Precision Cleaning"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:60
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:43
+msgid "Single Side"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:61
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:44
+msgid "Double Side"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:70
+msgid "Bubble Wrap"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:71
+msgid "Anti-static and Bubble Bag"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:72
+msgid "Electrostatic Bag with Knife Card"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\personalized_info_view.py:87
+msgid "Lead-free Technology"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:25
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:25
+msgid "Special Technique"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:32
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:32
+msgid "Process Requirement"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:42
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:42
+msgid "Erecting Welding"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:52
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:52
+msgid "X-RAY Boards"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:60
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:60
+msgid "X-RAY Elements"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:68
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:68
+msgid "Panel Cleaning"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:78
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:78
+msgid "Material Baking"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:88
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:88
+msgid "Welding or Not"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:98
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:98
+msgid "Functional Test"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:108
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:108
+msgid "Assembled"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:118
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:118
+msgid "Program Burning"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:128
+msgid "Split Shipment"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:138
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:128
+msgid "Line/Pad Tinning"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:148
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:138
+msgid "Three-proof Paint"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:158
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:158
+msgid "Sample Drawing Confirm"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:168
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:168
+msgid "Packaging Type"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_personalized.py:181
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:242
+msgid "Postscript"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:148
+msgid "split board"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\personalized_nextpcb\ui_smt_personalized.py:184
+msgid "split board(single)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\process_info_view.py:21
+msgid "Ordinary Steel Mesh"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\process_info_view.py:22
+msgid "Stepped Steel Mesh"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\ui_process_info.py:30
+msgid "BOM Material Type"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\ui_process_info.py:38
+msgid "Patch Pad Number"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\ui_process_info.py:46
+msgid "Welding Plugin"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\ui_process_info.py:56
+msgid "Single Plugin Points"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\ui_process_info.py:64
+msgid "Steel Mesh"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\process_nextpcb\ui_process_info.py:74
+msgid "Steel Follow Delivery"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:25
+msgid "Industrial Control Electronics"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:26
+msgid "Automotive Electronics"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:27
+msgid "Medical Electronics"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:28
+msgid "New Energy Electronics"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:29
+msgid "Military Electronics"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:30
+msgid "Consumer Electronics"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:36
+msgid "Hard Board"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:37
+msgid "Soft Board"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:38
+msgid "Combination of Hoft and Hard"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:48
+msgid "Order Together"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:49
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:54
+msgid "Oneself Provide"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\base_info_view.py:53
+msgid "Huaqiu Agent Purchasing"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:36
+msgid "Application Sphere"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:46
+msgid "PCB Board Type"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:56
+msgid "Single/Double Side"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:66
+msgid "Custom PCB Board"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:76
+msgid "BOM Material Purchase"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:94
+msgid "Qty(Single)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:97
+msgid "The total number of single pieces to be produced, the number of non-assembled plates"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:122
+msgid "Size (Single)"
+msgstr ""
+
+#:
+#: C:\Users\haf\Documents\KiCad\8.0\scripting\plugins\kicad-nextpcb-plugin\nextPCB_plugin\smt_pcb_fabrication_pcb\smt_base_nextpcb\ui_smt_base_info.py:288
+msgid "1 SET "
+msgstr ""
+
