@@ -51,8 +51,10 @@ class PartSelectorDialog(wx.Dialog):
         self.is_searching = False
         
         self.last_call_time = 0  # 记录上一次事件触发的时间
-        self.throttle_interval = 0.3  # 设置时间间隔，单位为秒
-        self.page_throttle_interval = 2  # 设置时间间隔，单位为秒
+        self.throttle_interval = 0.4  # 设置时间间隔，单位为秒
+        self.page_last_call_time = 0  # 记录上一次事件触发的时间
+        self.page_throttle_interval = 4  # 设置时间间隔，单位为秒
+        self.thread = None
 
 
         part_selection = self.get_existing_selection(parts)
@@ -80,13 +82,13 @@ class PartSelectorDialog(wx.Dialog):
         self.search_view.description.SetValue(
             self.part_info[0]+ "  " + self.part_info[1] + "  " +  self.part_info[2] + "  " + self.part_info[3] 
         )
-        self.search_view.description.Bind(wx.EVT_SEARCH, self.search)
-        self.search_view.mpn_textctrl.Bind(wx.EVT_TEXT_ENTER, self.search)
-        self.search_view.manufacturer.Bind(wx.EVT_TEXT_ENTER, self.search)
-        self.search_view.search_button.Bind(wx.EVT_BUTTON, self.search)
+        self.search_view.description.Bind(wx.EVT_SEARCH, self.search_delay)
+        self.search_view.mpn_textctrl.Bind(wx.EVT_TEXT_ENTER, self.search_delay)
+        self.search_view.manufacturer.Bind(wx.EVT_TEXT_ENTER, self.search_delay)
+        self.search_view.search_button.Bind(wx.EVT_BUTTON, self.search_delay)
 
         self.part_list_view.part_list.Bind(
-            wx.dataview.EVT_DATAVIEW_COLUMN_HEADER_CLICK, self.OnSortPartList
+            wx.dataview.EVT_DATAVIEW_COLUMN_HEADER_CLICK, self.search_delay
         )
         self.part_list_view.part_list.Bind(
             wx.dataview.EVT_DATAVIEW_SELECTION_CHANGED, self.on_part_selected_timer_event
@@ -152,9 +154,16 @@ class PartSelectorDialog(wx.Dialog):
         ]:
             b.Enable(bool(state))
 
+    def search_delay(self, e):
+        """Search the library for parts that meet the search criteria."""
+        current_time = time.time()
+        if current_time - self.page_last_call_time < self.page_throttle_interval :
+            return  # 如果时间间隔小于设定的阈值，则不处理事件
+        self.page_last_call_time = current_time
+        self.search( e )
+
     def search(self, e):
         """Search the library for parts that meet the search criteria."""
-
         if self.current_page == 0:
             self.current_page = 1
 
@@ -289,9 +298,18 @@ class PartSelectorDialog(wx.Dialog):
             part_list_data.append(part)
         self.part_list_view.init_data_view(part_list_data)
         
-        thread = threading.Thread(target=self.search_supply_chain, args=(body, parameters))
-        # 启动线程
-        thread.start()
+        # thread = threading.Thread(target=self.search_supply_chain, args=(body, parameters))
+        # # 启动线程
+        # thread.start()
+        wx.BeginBusyCursor()
+        if self.thread is not None:
+            self.thread.join()  # 等待线程结束
+
+        # 创建并启动新线程
+        self.thread = threading.Thread(target=self.search_supply_chain, args=(body, parameters))
+        self.thread.start()
+        wx.EndBusyCursor()
+
 
 
 
@@ -384,7 +402,7 @@ class PartSelectorDialog(wx.Dialog):
 
     def on_part_selected_timer_event(self, event):
         current_time = time.time()
-        if current_time - self.last_call_time < self.throttle_interval:
+        if current_time - self.last_call_time < self.throttle_interval or current_time - self.page_last_call_time  < self.throttle_interval :
             return  # 如果时间间隔小于设定的阈值，则不处理事件
         self.last_call_time = current_time
         self.on_part_selected()
@@ -416,6 +434,10 @@ class PartSelectorDialog(wx.Dialog):
             )
 
     def on_prev_page(self, event):
+        current_time = time.time()
+        if current_time - self.page_last_call_time < self.page_throttle_interval :
+            return  # 如果时间间隔小于设定的阈值，则不处理事件
+        self.page_last_call_time = current_time
         if self.current_page > 1:
             self.current_page -= 1
             self.update_page_label()
@@ -425,9 +447,9 @@ class PartSelectorDialog(wx.Dialog):
 
     def on_next_page(self, event):
         current_time = time.time()
-        if current_time - self.last_call_time < self.page_throttle_interval:
+        if current_time - self.page_last_call_time < self.page_throttle_interval :
             return  # 如果时间间隔小于设定的阈值，则不处理事件
-        self.last_call_time = current_time
+        self.page_last_call_time = current_time
         if self.current_page < self.total_pages:
             self.current_page += 1
             self.update_page_label()
