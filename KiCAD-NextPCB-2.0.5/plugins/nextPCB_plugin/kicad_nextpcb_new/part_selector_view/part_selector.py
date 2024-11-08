@@ -55,6 +55,7 @@ class PartSelectorDialog(wx.Dialog):
         self.last_call_time = 0  # 记录上一次事件触发的时间
         self.throttle_interval = 0.3  # 设置时间间隔，单位为秒
         self.page_throttle_interval = 2  # 设置时间间隔，单位为秒
+        self.thread = None
 
         part_selection = self.get_existing_selection(parts)
         self.part_info = part_selection.split(",")
@@ -203,13 +204,16 @@ class PartSelectorDialog(wx.Dialog):
 
         url = "https://www.eda.cn/api/chiplet/products/queryPage"
 
+        # self.search_view.search_button.Disable()
         self.search_view.search_button.Disable()
+        self.part_list_view.prev_button.Disable()
+        self.part_list_view.next_button.Disable()
         try:
             
             self.search_api_request(url, body)
 
         finally:
-            self.search_view.search_button.Enable()
+            # self.search_view.search_button.Enable()
             wx.CallAfter(wx.EndBusyCursor)
 
     def search_api_request(self, url, data):
@@ -240,6 +244,7 @@ class PartSelectorDialog(wx.Dialog):
 
     def populate_part_list(self):
         """Populate the list with the result of the search."""
+
         if self.search_part_list is None:
             return
         part_list_data = []
@@ -288,9 +293,15 @@ class PartSelectorDialog(wx.Dialog):
         except Exception as e:
             print("Error during rendering:", e)
             
-        thread = threading.Thread(target=self.search_supply_chain, args=(body, parameters))
-        # 启动线程
-        thread.start()
+        # thread = threading.Thread(target=self.search_supply_chain, args=(body, parameters))
+        # # 启动线程
+        # thread.start()
+        if self.thread is not None:
+            self.thread.join()  # 等待线程结束
+
+        # 创建并启动新线程
+        self.thread = threading.Thread(target=self.search_supply_chain, args=(body, parameters))
+        self.thread.start()
 
 
         
@@ -328,7 +339,10 @@ class PartSelectorDialog(wx.Dialog):
                 part.append(val)
             part.insert(0, f"{idx}")
             part_list_data.append(part)
-
+        
+        self.search_view.search_button.Enable()
+        self.part_list_view.prev_button.Enable()
+        self.part_list_view.next_button.Enable()
         self.part_list_view.init_data_view( part_list_data )
 
 
@@ -409,10 +423,10 @@ class PartSelectorDialog(wx.Dialog):
             )
 
     def on_prev_page(self, event):
-        current_time = time.time()
-        if current_time - self.last_call_time < self.page_throttle_interval:
-            return  # 如果时间间隔小于设定的阈值，则不处理事件
-        self.last_call_time = current_time
+        # current_time = time.time()
+        # if current_time - self.last_call_time < self.page_throttle_interval:
+        #     return  # 如果时间间隔小于设定的阈值，则不处理事件
+        # self.last_call_time = current_time
         if self.current_page > 1:
             self.current_page -= 1
             self.update_page_label()
@@ -421,10 +435,10 @@ class PartSelectorDialog(wx.Dialog):
 
             
     def on_next_page(self, event):
-        current_time = time.time()
-        if current_time - self.last_call_time < self.page_throttle_interval:
-            return  # 如果时间间隔小于设定的阈值，则不处理事件
-        self.last_call_time = current_time
+        # current_time = time.time()
+        # if current_time - self.last_call_time < self.page_throttle_interval:
+        #     return  # 如果时间间隔小于设定的阈值，则不处理事件
+        # self.last_call_time = current_time
         if self.current_page < self.total_pages:
             self.current_page += 1
             self.update_page_label()
